@@ -39,7 +39,7 @@ metadata:
     traefik.ingress.kubernetes.io/router.entrypoints: web
 spec:
   rules:
-    - host: whoami.ragelberries.net
+    - host: whoami2.ragelberries.net
       http:
         paths:
           - path: /
